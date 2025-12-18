@@ -598,7 +598,6 @@ This project is open source and available under the MIT License.
 ## 👨‍💻 Authors
 
 Vijaya Raghava Medarametla
-
 - GitHub: [@VijayaRaghava139](https://github.com/VijayaRaghava139)
 - Email: intothedatascience@gmail.com
 
